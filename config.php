@@ -1,5 +1,6 @@
 <?php
 
-echo "Hello World!";
+echo "Hello World!s";
 
+echo "Thanks for a chat!";
 ?>
